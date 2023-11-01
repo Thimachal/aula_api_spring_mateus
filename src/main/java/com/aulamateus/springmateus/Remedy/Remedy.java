@@ -23,7 +23,4 @@ public class Remedy {
     private String validate;
    @Enumerated(EnumType.STRING)
     private Laboratory laboratory;
-
-
-
 }
